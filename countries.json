@@ -105,7 +105,7 @@
       "Antarctica/DumontDUrville",
       "Antarctica/Syowa"
     ],
-    "currencyCode": "",
+    "currencyCode": "USD",
     "latitude": -75.250973,
     "longitude": -0.071389
   },
@@ -2777,8 +2777,8 @@
     "code": "UM",
     "timezones": ["Pacific/Johnston", "Pacific/Midway", "Pacific/Wake"],
     "currencyCode": "USD",
-    "latitude": "",
-    "longitude": ""
+    "latitude": 19.2823,
+    "longitude": 166.647047
   },
   {
     "alpha2Code": "UY",
