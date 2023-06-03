@@ -373,7 +373,7 @@
     "name": "Bouvet Island",
     "numericCode": 74,
     "code": "BV",
-    "timezones": [null],
+    "timezones": ["Europe/Oslo"],
     "currencyCode": "NOK",
     "latitude": -54.423199,
     "longitude": 3.413194
@@ -1156,7 +1156,7 @@
     "name": "Heard Island and McDonald Islands",
     "numericCode": 334,
     "code": "HM",
-    "timezones": [null],
+    "timezones": ["Indian/Kerguelen"],
     "currencyCode": "AUD",
     "latitude": -53.08181,
     "longitude": 73.504158
